@@ -74,7 +74,6 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * [Ngahu Joel](https://ngahu.pythonanywhere.com)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
